@@ -1,56 +1,54 @@
-<h1 align="center">Hyprland · Minimal Setup</h1>
+<h1 align="center">End-4 · Minimal Hyprland</h1>
 
 <p align="center">
-  Clean configs • Keyboard-driven • Calm aesthetics
+  End-4 base • simplified • minimal-friendly
 </p>
 
 <br>
 
-<h3>🪶 What is this?</h3>
+<h3>🌱 About</h3>
 <p>
-A growing collection of <b>Hyprland configuration files</b> focused on
-<b>minimalism</b> with just enough aesthetics to feel good.
+This repo is based on <b>End-4</b>, but stripped down for users who
+<b>don’t want a complex file structure</b> or dozens of unnecessary commands.
 </p>
 
 <p>
-No heavy ricing. No unnecessary clutter.<br>
-Just things that make daily usage smoother.
+The goal is simple:
+<br>
+use End-4’s power, without its clutter.
 </p>
 
 <br>
 
-<h3>📁 What you’ll find here</h3>
+<h3>📦 What this focuses on</h3>
 <ul>
-  <li>Hyprland configs</li>
-  <li>Keybindings</li>
-  <li>Small scripts & tweaks</li>
-  <li>Minimal aesthetic experiments</li>
-</ul>
-
-<p>
-More files will be added over time as the setup evolves.
-</p>
-
-<br>
-
-<h3>⌨️ Philosophy</h3>
-<ul>
-  <li>Minimal over flashy</li>
-  <li>Keyboard first</li>
-  <li>Readable configs</li>
-  <li>Easy to modify, easy to remove</li>
+  <li>Clean & understandable configs</li>
+  <li>Fewer files, clear purpose</li>
+  <li>Only useful keybindings</li>
+  <li>Minimal aesthetic, no visual noise</li>
 </ul>
 
 <br>
 
-<h3>⚠️ Note</h3>
+<h3>🚫 What this avoids</h3>
+<ul>
+  <li>Over-engineered scripts</li>
+  <li>Confusing config trees</li>
+  <li>Commands you’ll never use</li>
+  <li>Heavy ricing for the sake of it</li>
+</ul>
+
+<br>
+
+<h3>🛠 Usage</h3>
 <p>
-This is not a one-click rice.<br>
-Pick what you like, ignore the rest.
+Take what you need.<br>
+Remove what you don’t.<br>
+Everything is meant to be readable and easy to tweak.
 </p>
 
 <br>
 
 <p align="center">
-  Built for calm workflows 🌙
+  Minimal users first 🌙
 </p>
